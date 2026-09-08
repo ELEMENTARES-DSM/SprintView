@@ -1,0 +1,20 @@
+{
+  "github": {
+    "org": "ELEMENTARES-DSM",
+    "repos": [
+      "FRONTEND-4SEMESTRE",
+      "BACKEND-4SEMESTRE",
+      "API-4SEMESTRE"
+    ]
+  },
+  "tipos_contexto": [
+    "epic", 
+    "story",
+    "épico", 
+    "história"
+  ],
+  "dev_mapping": {
+    "usuario-github1": "usuario-jira1",
+    "usuario-github2": "usuario-jira2"
+  }
+}
